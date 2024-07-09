@@ -62,5 +62,5 @@ The dataset used for this project is available on Kaggle: [Amazon Music Reviews 
 
 ## Contributors
 - **ArvindJawahar**
-  AI Researcher
-  Thirumoolar Software
+- AI Researcher
+- Thirumoolar Software
