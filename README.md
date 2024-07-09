@@ -61,6 +61,6 @@ The dataset used for this project is available on Kaggle: [Amazon Music Reviews 
 3. Run the Jupyter Notebook to execute the analysis and train the model.
 
 ## Contributors
-- **ArvindJawahar**
-- AI Researcher
-- Thirumoolar Software
+- **ArvindJawahar A**
+  AI Researcher
+  Thirumoolar Software
